@@ -20,4 +20,11 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/gui/MainView.fxml</name>
+			<type>1</type>
+			<location>C:/Java-libs/javafx-sdk/lib/javafx.fxml.jar</location>
+		</link>
+	</linkedResources>
 </projectDescription>
